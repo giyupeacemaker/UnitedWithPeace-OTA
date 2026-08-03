@@ -1,0 +1,22 @@
+{
+  "response": [
+    {
+      "timestamp": 1720000000,
+      "filename": "UnitedWithPeace-2024.08.zip",
+      "md5": "0123456789abcdef0123456789abcdef",
+      "size": 123456789,
+      "download": "https://github.com/giyupeacemaker/UnitedWithPeace-OTA/releases/download/v1.0/UnitedWithPeace-2024.08.zip",
+      "version": "1.0",
+      "maintainer": "giyupeacemaker",
+      "buildtype": "user",
+      "forum": "https://github.com/giyupeacemaker/UnitedWithPeace-OTA",
+      "telegram": "https://t.me/",
+      "gapps": "vanilla",
+      "firmware": "latest",
+      "modem": "none",
+      "bootloader": "unlocked",
+      "recovery": "stock",
+      "paypal": ""
+    }
+  ]
+}
