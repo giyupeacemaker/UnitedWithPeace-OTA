@@ -2,10 +2,10 @@
   "response": [
     {
       "timestamp": 1720000000,
-      "filename": "UnitedWithPeace-2024.08.zip",
+      "filename": "ProjectPeace-borderline-5.0_miatoll.zip",
       "md5": "0123456789abcdef0123456789abcdef",
       "size": 123456789,
-      "download": "https://github.com/giyupeacemaker/UnitedWithPeace-OTA/releases/download/v1.0/UnitedWithPeace-2024.08.zip",
+      "download": "https://github.com/giyupeacemaker/UnitedWithPeace-OTA/releases/download/v1.0/ProjectPeace-borderline-5.0_miatoll.zip",
       "version": "1.0",
       "maintainer": "giyupeacemaker",
       "buildtype": "user",
